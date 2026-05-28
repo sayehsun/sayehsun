@@ -13,7 +13,7 @@
   <a href="mailto:sayehsun@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mohammad-amir-hassani-06ab10269?utm_source=share&utm_campaign=share_via&utm_content=profile)">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-amir-hassani-06ab10269?utm_source=share&utm_campaign=share_via&utm_content=profile">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/sayehsun">
@@ -41,7 +41,7 @@
 <!-- Added relevant tools for EE / Backend / AI. Adjust perline to make a neat grid -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,fastapi,arduino,raspberrypi&theme=dark&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,arduino,raspberrypi&theme=dark&perline=6" alt="My Skills" />
   </a>
 </p>
 
