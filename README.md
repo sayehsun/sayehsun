@@ -10,10 +10,10 @@
 
 <!-- Social Badges with Official Brand Colors -->
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:sayehsun@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mohammad-amir-hassani-06ab10269?utm_source=share&utm_campaign=share_via&utm_content=profile)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/sayehsun">
