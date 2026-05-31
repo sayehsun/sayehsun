@@ -86,7 +86,7 @@
 
 <!-- Footer: Quote, Infinite Loop GIF & Profile Views -->
 <div align="center">
-  <p><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="180" alt="Coding GIF"></p>
+  <p><a href="#"><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="180" alt="Coding GIF"></a></p>
   <i>"Engineering is the closest thing to magic that exists in the world."</i>
   <br><br>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=sayehsun&color=36BCF5&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" /></a>
