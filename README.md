@@ -89,8 +89,8 @@
   <p><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="180" alt="Coding GIF"></p>
   <i>"Engineering is the closest thing to magic that exists in the world."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=sayehsun&color=36BCF5&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=sayehsun&color=36BCF5&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" /></a>
 </div>
 <div align= "center"> 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF5,100:7A5CFA&height=120&section=footer"/>
+  <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF5,100:7A5CFA&height=120&section=footer"/></a>
 </div>
