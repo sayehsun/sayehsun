@@ -62,6 +62,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+ <a href="#">
   <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayehsun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayehsun&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
@@ -77,9 +78,8 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayehsun&theme=tokyo-night&hide_border=true&custom_title=Recent%20GitHub%20Activity" alt="Mohammad's github activity graph" />
-  </a>
+ </a>
 </p>
 
 <br>
