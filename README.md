@@ -40,7 +40,7 @@
 
 <!-- Added relevant tools for EE / Backend / AI. Adjust perline to make a neat grid -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,arduino,raspberrypi&theme=dark&perline=6" alt="My Skills" />
   </a>
 </p>
@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=sayehsun&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="sayehsun's Trophies" />
   </a>
 </p>
@@ -77,7 +77,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/sayehsun">
+  <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayehsun&theme=tokyo-night&hide_border=true&custom_title=Recent%20GitHub%20Activity" alt="Mohammad's github activity graph" />
   </a>
 </p>
