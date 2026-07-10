@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://github.com/sayehsun">
-  <a href="https://git.io/typing-svg">
+  <!--<a href="https://git.io/typing-svg">-->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF5&center=true&vCenter=true&width=800&lines=Electrical+Engineering+Student;Control+Systems+%26+Industrial+Automation;Building+AI-powered+systems+with+Python;Multi-Agent+Systems+%7C+Backend+Engineering" alt="Typing SVG" />
   </a>
  </a>
