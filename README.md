@@ -66,18 +66,26 @@
   <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayehsun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayehsun&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+</a>
+  
 <br>
+  
 <div align="center">
+<a href="#">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sayehsun&theme=tokyonight&hide_border=true" />
+</a>
 </div>
 
+<a href="#">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
+</a>
 
 ## 📈 Activity Graph
 
 <p align="center">
+<a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayehsun&theme=tokyo-night&hide_border=true&custom_title=Recent%20GitHub%20Activity" alt="Mohammad's github activity graph" />
 </p>
 </a>
