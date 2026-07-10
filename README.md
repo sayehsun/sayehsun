@@ -21,9 +21,11 @@
   </a>
 </p>
 
+<a href="#">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
+</a>
 
 ## 👨‍💻 About Me & Current Focus
 
@@ -32,9 +34,11 @@
 - 💼 **Focusing on:** Backend Engineering & integrating AI into real-world control systems.
 - 💬 **Ask me about:** Python, Automation, and Systems Integration.
 
+<a href="#">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
+</a>
 
 ## 🛠️ Tech Stack & Tools
 
