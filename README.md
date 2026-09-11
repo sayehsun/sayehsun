@@ -88,6 +88,7 @@
 </p>
 </a>
    -->
+<!--
 ## 📈 Activity Graph
 
 <p align="center">
@@ -97,7 +98,7 @@
 </a>
 
 <br>
-
+-->
 <!-- Footer: Quote, Infinite Loop GIF & Profile Views -->
 <div align="center">
   <p><a href="#"><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="180" alt="Coding GIF"></a></p>
